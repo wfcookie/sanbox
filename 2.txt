@@ -1,1 +1,7 @@
 new add for 2.txt
+new line  for stash2
+
+this is new line info
+
+
+i want to add some info here
